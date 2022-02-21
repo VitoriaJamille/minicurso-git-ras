@@ -1,3 +1,3 @@
 # Mini curso RAS
  
- Olá mundo!
+ HELLO, GITHUB!!
